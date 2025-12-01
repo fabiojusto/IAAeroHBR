@@ -1,7 +1,3 @@
-Segue o **README.md** gerado a partir do conteúdo do arquivo anexado, estruturado e formatado em Markdown de forma clara e profissional:
-
----
-
 # 📘 Análise de Similaridade Climática entre Marte e Regiões da Terra
 
 ### *Algoritmos K-Means e Fuzzy C-Means*
